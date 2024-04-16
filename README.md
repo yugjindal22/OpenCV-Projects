@@ -1,2 +1,2 @@
 # OpenCV-Projects
-My journey of learning OpenCV
+My journey to learning OpenCV
