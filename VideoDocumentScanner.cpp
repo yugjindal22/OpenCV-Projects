@@ -131,8 +131,11 @@ int main()
                 return 0;
             }
         }
-        imshow("image", img);
-        imgOriginal = img.clone();
-        waitKey(1);
+        else
+        {
+            imshow("image", img);
+            imgOriginal = img.clone();
+            waitKey(1);
+        }
     }
 }
