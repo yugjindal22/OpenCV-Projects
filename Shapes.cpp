@@ -6,7 +6,7 @@
 using namespace cv;
 using namespace std;
 
-///////////////  Resize and Crop //////////////////////
+///////////////  Shapes //////////////////////
 
 int main()
 {
